@@ -2,6 +2,10 @@
 layout: default
 ---
 
-boozedog.com
+Here is the new web thing for boozedog.com .
 
-2017-01-24
+Hope you like what you see!
+
+Have a nice day.
+
+-boozedog
